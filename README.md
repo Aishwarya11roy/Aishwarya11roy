@@ -30,11 +30,11 @@ With a passion for technology and a knack for problem-solving, I'm excited to em
 
 ## Tech Stack 💻
 
-- Programming Languages: Java ☕️,Python 🐍,JavaScript 🌐
-- Web Development: HTML 🌐, CSS 🎨⚛
+- Programming Languages: Python 🐍, Java ☕️, C++ 🖥️,
+- Web Development: HTML 🌐, CSS 🎨, JavaScript 🌐
 - Database: SQL 📚, MongoDB 🍃
 - Data Analysis: Pandas 🐼, NumPy 🔢
-- Cloud Computing: AWS ☁️,
+- Cloud Computing: AWS ☁️, Azure ☁️
 - Version Control: Git 🗂️
 
 ## Learning Never Stops 📚
