@@ -48,7 +48,7 @@ I'm open to exciting tech projects and collaborations. If you have any ideas or 
 
 ### Contact Me 📧
 
-🔗 GitHub: [https://github.com/Aishwarya11roy]
+🔗 GitHub: [https://github.com/Aishwarya11roy]                               
 📧 Email: [royaishwarya11@gmail.com]
 
 Looking forward to connecting with you! Happy coding! 😄
