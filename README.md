@@ -34,7 +34,7 @@ With a passion for technology and a knack for problem-solving, I'm excited to em
 - Web Development: HTML 🌐, CSS 🎨, JavaScript 🌐
 - Database: SQL 📚, MongoDB 🍃
 - Data Analysis: Pandas 🐼, NumPy 🔢
-- Cloud Computing: AWS ☁️, Azure ☁️
+- Cloud Computing: AWS ☁️
 - Version Control: Git 🗂️
 
 ## Learning Never Stops 📚
