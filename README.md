@@ -14,29 +14,41 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🚀 Launching My Tech Journey from Carnegie Mellon University 🚀
+# Hello there! 👋 Welcome to my GitHub profile! 🎓
 
-Hello there! 👋 Welcome to my GitHub profile!
+I recently graduated with a **Master's degree** in **Information Systems Management** from **Carnegie Mellon University**.
 
-### About Me
+## About Me 🚀
 
-I am a recent Master of Information Systems Management graduate from Carnegie Mellon University, passionate about technology and its potential to solve real-world challenges. With a strong foundation in coding and a dash of creativity, I'm driven to explore new possibilities in the digital realm.
+With a passion for technology and a knack for problem-solving, I'm excited to embark on my tech journey and explore the endless possibilities in the digital world.
 
-### 🌐 Tech Enthusiast | Data Lover | Future Innovator 🌐
+### Interests 💡
 
-I believe in the power of data and its transformative impact on businesses and society. As a tech enthusiast, I'm constantly seeking opportunities to expand my knowledge and skills to stay at the forefront of the ever-evolving tech landscape.
+- Tech Enthusiast 🌐
+- Data Lover 📊
+- Aspiring Innovator 🚀
 
-### Learning Never Stops 📚
+## Tech Stack 💻
 
-I firmly believe that learning is a lifelong journey, and I embrace every challenge as an opportunity for growth. Coding is not just a skill; it's an art form that allows me to turn ideas into reality and make a positive impact on the world.
+- Programming Languages: Python, Java, JavaScript
+- Web Development: HTML, CSS, React
+- Database: SQL, MongoDB
+- Data Analysis: Pandas, NumPy
+- Cloud Computing: AWS, Azure
+- Version Control: Git
 
-### Let's Connect and Collaborate 🤝
+## Learning Never Stops 📚
 
-I'm always open to collaborating on exciting tech projects that align with my interests. Feel free to reach out to me via email or connect with me on GitHub. Let's build something amazing together!
+In this ever-evolving tech landscape, I firmly believe in the importance of continuous learning. I'm eager to keep honing my skills and stay up-to-date with the latest trends.
+
+## Let's Collaborate! 🤝
+
+I'm open to exciting tech projects and collaborations. If you have any ideas or opportunities to work together, feel free to reach out.
+
 
 ### Contact Me 📧
 
-🔗 GitHub: [[Your GitHub Profile Link](https://github.com/Aishwarya11roy)]
+🔗 GitHub: [https://github.com/Aishwarya11roy]
 📧 Email: [royaishwarya11@gmail.com]
 
 Looking forward to connecting with you! Happy coding! 😄
