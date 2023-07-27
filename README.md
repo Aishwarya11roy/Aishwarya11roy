@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Aishwarya11roy/Aishwarya11roy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,12 +30,12 @@ With a passion for technology and a knack for problem-solving, I'm excited to em
 
 ## Tech Stack 💻
 
-- Programming Languages: Python, Java, JavaScript
-- Web Development: HTML, CSS, React
-- Database: SQL, MongoDB
-- Data Analysis: Pandas, NumPy
-- Cloud Computing: AWS, Azure
-- Version Control: Git
+- Programming Languages: Python 🐍, Java ☕️, JavaScript 🌐
+- Web Development: HTML 🌐, CSS 🎨, React ⚛️
+- Database: SQL 📚, MongoDB 🍃
+- Data Analysis: Pandas 🐼, NumPy 🔢
+- Cloud Computing: AWS ☁️, Azure ☁️
+- Version Control: Git 🗂️
 
 ## Learning Never Stops 📚
 
